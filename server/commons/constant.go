@@ -2,7 +2,7 @@ package commons
 
 const (
 	ConnectionTimeout   = 90 // seconds
-	DatabaseName        = "GoExercise"
+	DatabaseName        = "goexercise"
 	MigrationFolderPath = "file://server/repositories/db/migrations"
 )
 
